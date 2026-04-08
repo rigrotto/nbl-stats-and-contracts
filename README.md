@@ -1,5 +1,13 @@
 # ⚡ NBL Contract Tracker  
-### _Where contracts meet clarity._
+### _Your Home of NBL Contracts and Statistics._
+
+## 🚀 View the Live Tracker
+
+<div align="center">
+  <a href="https://rigrotto.github.io/nbl-stats-and-contracts/artifacts/nbl-contracts/">
+    <img src="https://img.shields.io/badge/Launch%20App-Click%20Here-brightgreen?style=for-the-badge&logo=react" alt="Launch NBL Contract Tracker" />
+  </a>
+</div>
 
 <p align="center">
   <img src="./preview.png" width="80%" />
